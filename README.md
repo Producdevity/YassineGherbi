@@ -38,13 +38,14 @@ Here are some ideas to get you started:
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/YassineGherbi)
 
 ### Technologies & Frameworks
-[![React Native](https://img.shields.io/badge/node-black?style=for-the-badge&logo=react)](https://github.com/YassineGherbi)
+[![React Native](https://img.shields.io/badge/react%20native-black?style=for-the-badge&logo=react)](https://github.com/YassineGherbi)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/YassineGherbi)
 [![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/YassineGherbi)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/YassineGherbi)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/YassineGherbi)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/YassineGherbi)
-[![VIM & NEOVIM](https://img.shields.io/badge/vim-black?style=for-the-badge&logo=neovim)](https://hub.docker.com/u/YassineGherbi)
+[![VIM](https://img.shields.io/badge/vim-black?style=for-the-badge&logo=vim)](https://hub.docker.com/u/YassineGherbi)
+[![NEOVIM](https://img.shields.io/badge/neovim-black?style=for-the-badge&logo=neovim)](https://hub.docker.com/u/YassineGherbi)
 
 ### OS
 [![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=apple)](https://github.com/YassineGherbi)
@@ -62,7 +63,7 @@ Here are some ideas to get you started:
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YassineGherbi&theme=transparent" />
   </a>
   <a href="https://github.com/YassineGherbi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineGherbi&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineGherbi&langs_count=10&exclude_repo=&hide=&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
