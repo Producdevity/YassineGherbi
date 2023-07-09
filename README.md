@@ -63,7 +63,7 @@ Here are some ideas to get you started:
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YassineGherbi&theme=transparent" />
   </a>
   <a href="https://github.com/YassineGherbi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineGherbi&langs_count=10&exclude_repo=&hide=&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineGherbi&langs_count=10&exclude_repo=&hide=&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
