@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/YassineGherbi)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/YassineGherbi)
 [![NodeJS](https://img.shields.io/badge/node-black?style=for-the-badge&logo=nodedotjs)](https://github.com/YassineGherbi)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/YassineGherbi)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/YassineGherbi)
 [![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://github.com/YassineGherbi)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/YassineGherbi)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/YassineGherbi)
@@ -41,11 +43,9 @@ Here are some ideas to get you started:
 [![React Native](https://img.shields.io/badge/react%20native-black?style=for-the-badge&logo=react)](https://github.com/YassineGherbi)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/YassineGherbi)
 [![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/YassineGherbi)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/YassineGherbi)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/YassineGherbi)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/YassineGherbi)
-[![VIM](https://img.shields.io/badge/vim-black?style=for-the-badge&logo=vim)](https://hub.docker.com/u/YassineGherbi)
-[![NEOVIM](https://img.shields.io/badge/neovim-black?style=for-the-badge&logo=neovim)](https://hub.docker.com/u/YassineGherbi)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/YassineGherbi)
+[![VIM](https://img.shields.io/badge/vim-black?style=for-the-badge&logo=vim)](https://github.com/YassineGherbi)
+[![NEOVIM](https://img.shields.io/badge/neovim-black?style=for-the-badge&logo=neovim)](https://github.com/YassineGherbi)
 
 ### OS
 [![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=apple)](https://github.com/YassineGherbi)
