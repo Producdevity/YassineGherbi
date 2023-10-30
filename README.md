@@ -13,18 +13,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+I "borrod this from someone, so feel free to take it as wel
 -->
 
 
 <h1 align="center">Hi, guys!👋</h1>
 
 <p align="center">
-    <b>Acting like I know what I'm doing is how I got so good at what I do.</b><br><br>
-    <a href="https://www.linkedin.com/in/yassinegherbi" title="LinkedIn Yassine Gherbi">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    <b>Senior Freelance Software Developer specialized in TypeScript, React Native, and more.</b></br>
+    <b>Acting like I know what I'm doing is how I got so good at what I do.</b></br></br>
+    <a href="https://www.linkedin.com/in/yassinegherbi" title="LinkedIn Yassine Gherbi" style="text-decoration: none">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Yassine Gherbi">
     </a>
-    <a href="[https://twitter.com/YG_dev](https://twitter.com/YG_dev)" title="Twitter Yassine Gherbi">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" alt="Twitter">
+    <a href="https://twitter.com/YG_dev" title="Twitter Yassine Gherbi" style="text-decoration: none">
+        <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" alt="Twitter Yassine Gherbi">
     </a>
 </p>
 
@@ -40,16 +43,22 @@ Here are some ideas to get you started:
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/YassineGherbi)
 
 ### Technologies & Frameworks
-[![React Native](https://img.shields.io/badge/react%20native-black?style=for-the-badge&logo=react)](https://github.com/YassineGherbi)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/YassineGherbi)
-[![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/YassineGherbi)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/YassineGherbi)
-[![VIM](https://img.shields.io/badge/vim-black?style=for-the-badge&logo=vim)](https://github.com/YassineGherbi)
-[![NEOVIM](https://img.shields.io/badge/neovim-black?style=for-the-badge&logo=neovim)](https://github.com/YassineGherbi)
+[![React Native](https://img.shields.io/badge/react%20native-black?style=for-the-badge&logo=react)](https://reactnative.dev/)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![NextJS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![Remix](https://img.shields.io/badge/react-black?style=for-the-badge&logo=remix)](https://remix.run/)
+[![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](http://laravel.com/)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://www.docker.com/)
+[![VIM](https://img.shields.io/badge/vim-black?style=for-the-badge&logo=vim)](https://www.vim.org/)
+[![NEOVIM](https://img.shields.io/badge/neovim-black?style=for-the-badge&logo=neovim)](https://neovim.io/)
 
 ### OS
-[![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=apple)](https://github.com/YassineGherbi)
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/YassineGherbi)
+[![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=apple)](https://apple.com)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://www.linux.org/)
+
+### 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/yassinegherbi)
+- [Email](mailto:y.gherbi.dev@gmail.com)
 
 <details>
 <p align="center">
